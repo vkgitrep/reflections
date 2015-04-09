@@ -1,2 +1,3 @@
 It does a initial commit and also highlights whether the files are tracked for version changes or not.
 Staging are contains the files version or tracked files which are about to commit. Working directory contains all the files. 
+By running git diff --staged and git diff i can get to know what are the recent changes, and i can decide whether to commit a single logical change per commit
